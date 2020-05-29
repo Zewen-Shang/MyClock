@@ -1,0 +1,32 @@
+.top{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 70vh;
+}
+
+.buttom{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    height: 30vh;
+}
+
+.main-buttom{
+    width: 100px;
+    height: 50px;
+    font-size: 24px !important;
+}
+
+.time{
+    font-size: 48px;
+}
+
+img{
+    position: absolute;
+    left: 25%;
+    top: 45vh;
+    width: 50%;
+}
